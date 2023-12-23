@@ -76,7 +76,7 @@ int main(int argc, char *argv[]) {
     int centerX, centerY, radius;
     int numParticles, maxLife, waterLine;
     // user inputs
-    cout << "Welcome to Raghav Sunderasan's CSE240 island generator!" << endl;
+    cout << "Welcome to Raghav Sunderasan's island generator!" << endl;
     cout << "Enter grid width: ";
     cin >> width;
     cout << "Enter grid height: ";
